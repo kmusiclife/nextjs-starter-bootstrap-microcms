@@ -8,4 +8,4 @@ To get started, just clone the this repository and run `npm install && npm run d
     npm install
     npm run dev
 
-After that, API_KEY and API_URL must be set up in .env before using Microcms( https://microcms.io/ )
+After that, API_KEY and API_URL must be set up in .env before using Microcms( https://microcms.io/ ) When you create API on MicroCMS you could select API "type of LIST".
